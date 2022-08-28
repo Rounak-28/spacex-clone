@@ -4,13 +4,13 @@ export default function Footer() {
             <footer className="text-xs text-[#828282]" >SPACEX © 2022</footer>
             <ul className="flex flex-wrap justify-center text-xs font-bold space-x-3 lg:space-x-9 space-y-2 lg:pb-4">
                 <li></li>
-                <li>TWITTER</li>
-                <li>YOUTUBE</li>
-                <li>INSTAGRAM</li>
-                <li>FLICKR</li>
-                <li>LINKEDIN</li>
-                <li>PRIVACY POLICY</li>
-                <li>SUPPLIERS</li>
+                <li className="cursor-pointer">TWITTER</li>
+                <li className="cursor-pointer">YOUTUBE</li>
+                <li className="cursor-pointer">INSTAGRAM</li>
+                <li className="cursor-pointer">FLICKR</li>
+                <li className="cursor-pointer">LINKEDIN</li>
+                <li className="cursor-pointer">PRIVACY POLICY</li>
+                <li className="cursor-pointer">SUPPLIERS</li>
             </ul>
         </div>
     )
