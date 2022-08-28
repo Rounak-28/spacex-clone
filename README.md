@@ -5,3 +5,7 @@ THIS IS A SPACEX CLONE MADE BY ME (ROUNAK) AS A PRACTICE PROJECT
 REACT.JS
 
 TAILWIND CSS
+
+
+## LIVE VERSION: 
+https://rounak-28.github.io/spacex-clone/
